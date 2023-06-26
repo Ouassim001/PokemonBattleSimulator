@@ -1,0 +1,15 @@
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonOOP2\bin\Debug\net7.0\PokemonOOP2.exe
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonOOP2\bin\Debug\net7.0\PokemonOOP2.deps.json
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonOOP2\bin\Debug\net7.0\PokemonOOP2.runtimeconfig.json
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonOOP2\bin\Debug\net7.0\PokemonOOP2.dll
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonOOP2\bin\Debug\net7.0\PokemonOOP2.pdb
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonOOP2\obj\Debug\net7.0\PokemonOOP2.csproj.AssemblyReference.cache
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonOOP2\obj\Debug\net7.0\PokemonOOP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonOOP2\obj\Debug\net7.0\PokemonOOP2.AssemblyInfoInputs.cache
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonOOP2\obj\Debug\net7.0\PokemonOOP2.AssemblyInfo.cs
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonOOP2\obj\Debug\net7.0\PokemonOOP2.csproj.CoreCompileInputs.cache
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonOOP2\obj\Debug\net7.0\PokemonOOP2.dll
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonOOP2\obj\Debug\net7.0\refint\PokemonOOP2.dll
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonOOP2\obj\Debug\net7.0\PokemonOOP2.pdb
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonOOP2\obj\Debug\net7.0\PokemonOOP2.genruntimeconfig.cache
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonOOP2\obj\Debug\net7.0\ref\PokemonOOP2.dll
