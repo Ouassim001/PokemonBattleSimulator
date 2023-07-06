@@ -1,0 +1,15 @@
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonBattleSimulator\PokemonOOP3\bin\Debug\net7.0\PokemonOOP3.exe
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonBattleSimulator\PokemonOOP3\bin\Debug\net7.0\PokemonOOP3.deps.json
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonBattleSimulator\PokemonOOP3\bin\Debug\net7.0\PokemonOOP3.runtimeconfig.json
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonBattleSimulator\PokemonOOP3\bin\Debug\net7.0\PokemonOOP3.dll
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonBattleSimulator\PokemonOOP3\bin\Debug\net7.0\PokemonOOP3.pdb
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonBattleSimulator\PokemonOOP3\obj\Debug\net7.0\PokemonOOP3.csproj.AssemblyReference.cache
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonBattleSimulator\PokemonOOP3\obj\Debug\net7.0\PokemonOOP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonBattleSimulator\PokemonOOP3\obj\Debug\net7.0\PokemonOOP3.AssemblyInfoInputs.cache
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonBattleSimulator\PokemonOOP3\obj\Debug\net7.0\PokemonOOP3.AssemblyInfo.cs
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonBattleSimulator\PokemonOOP3\obj\Debug\net7.0\PokemonOOP3.csproj.CoreCompileInputs.cache
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonBattleSimulator\PokemonOOP3\obj\Debug\net7.0\PokemonOOP3.dll
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonBattleSimulator\PokemonOOP3\obj\Debug\net7.0\refint\PokemonOOP3.dll
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonBattleSimulator\PokemonOOP3\obj\Debug\net7.0\PokemonOOP3.pdb
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonBattleSimulator\PokemonOOP3\obj\Debug\net7.0\PokemonOOP3.genruntimeconfig.cache
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonBattleSimulator\PokemonOOP3\obj\Debug\net7.0\ref\PokemonOOP3.dll
