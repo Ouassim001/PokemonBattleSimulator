@@ -1,0 +1,5 @@
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonBattleSimulator\PokemonOOP5\obj\Debug\net7.0\PokemonOOP5.csproj.AssemblyReference.cache
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonBattleSimulator\PokemonOOP5\obj\Debug\net7.0\PokemonOOP5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonBattleSimulator\PokemonOOP5\obj\Debug\net7.0\PokemonOOP5.AssemblyInfoInputs.cache
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonBattleSimulator\PokemonOOP5\obj\Debug\net7.0\PokemonOOP5.AssemblyInfo.cs
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonBattleSimulator\PokemonOOP5\obj\Debug\net7.0\PokemonOOP5.csproj.CoreCompileInputs.cache
