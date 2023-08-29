@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ouass\\Documenten\\Coding Projects\\VisualStudio-Projects\\C#\\PokemonBattleSimulator\\PokemonOOP5\\PokemonOOP5.csproj",
-      "projectName": "PokemonOOP5",
-      "projectPath": "C:\\Users\\ouass\\Documenten\\Coding Projects\\VisualStudio-Projects\\C#\\PokemonBattleSimulator\\PokemonOOP5\\PokemonOOP5.csproj",
+      "projectUniqueName": "C:\\Users\\ouass\\Documenten\\Coding Projects\\VisualStudio-Projects\\C#\\PokemonBattleSimulator\\PokemonOOP4\\PokemonOOP4.csproj",
+      "projectName": "PokemonOOP4",
+      "projectPath": "C:\\Users\\ouass\\Documenten\\Coding Projects\\VisualStudio-Projects\\C#\\PokemonBattleSimulator\\PokemonOOP4\\PokemonOOP4.csproj",
       "packagesPath": "C:\\Users\\ouass\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ouass\\Documenten\\Coding Projects\\VisualStudio-Projects\\C#\\PokemonBattleSimulator\\PokemonOOP5\\obj\\",
+      "outputPath": "C:\\Users\\ouass\\Documenten\\Coding Projects\\VisualStudio-Projects\\C#\\PokemonBattleSimulator\\PokemonOOP4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -4,36 +4,29 @@ using System.Threading;
 
 public class Pokemon
 {
-    public string Name { get; private set; }
-    public PokemonType Type { get; private set; }
+    public string Name { get; set; }
+    public string Type { get; set; }
 
-    public Pokemon(string name, PokemonType type)
+    public Pokemon(string name, string type)
     {
         Name = name;
         Type = type;
     }
 }
 
-public enum PokemonType
-{
-    Fire,
-    Grass,
-    Water
-}
-
 public class Battle
 {
-    private static string Fight(Pokemon pokemon1, Pokemon pokemon2)
+    public static string Fight(Pokemon pokemon1, Pokemon pokemon2)
     {
-        if (pokemon1.Type == PokemonType.Fire && pokemon2.Type == PokemonType.Grass)
+        if (pokemon1.Type == "Fire" && pokemon2.Type == "Grass")
         {
             return $"{pokemon1.Name} wins!";
         }
-        else if (pokemon1.Type == PokemonType.Grass && pokemon2.Type == PokemonType.Water)
+        else if (pokemon1.Type == "Grass" && pokemon2.Type == "Water")
         {
             return $"{pokemon1.Name} wins!";
         }
-        else if (pokemon1.Type == PokemonType.Water && pokemon2.Type == PokemonType.Fire)
+        else if (pokemon1.Type == "Water" && pokemon2.Type == "Fire")
         {
             return $"{pokemon1.Name} wins!";
         }
@@ -50,8 +43,8 @@ public class Battle
 
 public class Trainer
 {
-    public string Name { get; private set; }
-    private List<Pokemon> Belt { get; set; }
+    public string Name { get; set; }
+    public List<Pokemon> Belt { get; set; }
 
     public Trainer(string name)
     {
@@ -61,14 +54,7 @@ public class Trainer
 
     public void AddPokemonToBelt(Pokemon pokemon)
     {
-        if (Belt.Count < 6)
-        {
-            Belt.Add(pokemon);
-        }
-        else
-        {
-            throw new Exception("The belt can't hold more than 6 Pokemon!");
-        }
+        Belt.Add(pokemon);
     }
 
     public void ThrowPokeball()
@@ -97,8 +83,8 @@ public class Trainer
 
 public class Arena
 {
-    private int RoundCount { get; set; }
-    private int BattleCount { get; set; }
+    public int RoundCount { get; set; }
+    public int BattleCount { get; set; }
 
     public void StartBattle(Trainer trainer1, Trainer trainer2)
     {
@@ -144,21 +130,13 @@ public class Game
         string trainer2Name = Console.ReadLine();
         Trainer trainer2 = new Trainer(trainer2Name);
 
-        try
-        {
-            trainer1.AddPokemonToBelt(new Pokemon("Charmander", PokemonType.Fire));
-            trainer1.AddPokemonToBelt(new Pokemon("Bulbasaur", PokemonType.Grass));
-            trainer1.AddPokemonToBelt(new Pokemon("Squirtle", PokemonType.Water));
+        trainer1.AddPokemonToBelt(new Pokemon("Charmander", "Fire"));
+        trainer1.AddPokemonToBelt(new Pokemon("Bulbasaur", "Grass"));
+        trainer1.AddPokemonToBelt(new Pokemon("Squirtle", "Water"));
 
-            trainer2.AddPokemonToBelt(new Pokemon("Charmander", PokemonType.Fire));
-            trainer2.AddPokemonToBelt(new Pokemon("Bulbasaur", PokemonType.Grass));
-            trainer2.AddPokemonToBelt(new Pokemon("Squirtle", PokemonType.Water));
-        }
-        catch (Exception e)
-        {
-            Console.WriteLine(e.Message);
-            return;
-        }
+        trainer2.AddPokemonToBelt(new Pokemon("Charmander", "Fire"));
+        trainer2.AddPokemonToBelt(new Pokemon("Bulbasaur", "Grass"));
+        trainer2.AddPokemonToBelt(new Pokemon("Squirtle", "Water"));
 
         Arena arena = new Arena();
         arena.StartBattle(trainer1, trainer2);
