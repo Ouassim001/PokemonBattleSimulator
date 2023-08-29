@@ -1,0 +1,15 @@
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonBattleSimulator\PokemonOOP6\bin\Debug\net7.0\PokemonOOP6.exe
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonBattleSimulator\PokemonOOP6\bin\Debug\net7.0\PokemonOOP6.deps.json
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonBattleSimulator\PokemonOOP6\bin\Debug\net7.0\PokemonOOP6.runtimeconfig.json
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonBattleSimulator\PokemonOOP6\bin\Debug\net7.0\PokemonOOP6.dll
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonBattleSimulator\PokemonOOP6\bin\Debug\net7.0\PokemonOOP6.pdb
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonBattleSimulator\PokemonOOP6\obj\Debug\net7.0\PokemonOOP6.csproj.AssemblyReference.cache
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonBattleSimulator\PokemonOOP6\obj\Debug\net7.0\PokemonOOP6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonBattleSimulator\PokemonOOP6\obj\Debug\net7.0\PokemonOOP6.AssemblyInfoInputs.cache
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonBattleSimulator\PokemonOOP6\obj\Debug\net7.0\PokemonOOP6.AssemblyInfo.cs
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonBattleSimulator\PokemonOOP6\obj\Debug\net7.0\PokemonOOP6.csproj.CoreCompileInputs.cache
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonBattleSimulator\PokemonOOP6\obj\Debug\net7.0\PokemonOOP6.dll
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonBattleSimulator\PokemonOOP6\obj\Debug\net7.0\refint\PokemonOOP6.dll
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonBattleSimulator\PokemonOOP6\obj\Debug\net7.0\PokemonOOP6.pdb
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonBattleSimulator\PokemonOOP6\obj\Debug\net7.0\PokemonOOP6.genruntimeconfig.cache
+C:\Users\ouass\Documenten\Coding Projects\VisualStudio-Projects\C#\PokemonBattleSimulator\PokemonOOP6\obj\Debug\net7.0\ref\PokemonOOP6.dll
